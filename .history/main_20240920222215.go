@@ -57,6 +57,4 @@ type Shape interface{
 type Circle struct{
 	Radius float64
 }
-func (c Circle) Area() float64{
-	
-}
+func (c Circle) Area()

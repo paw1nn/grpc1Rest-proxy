@@ -52,11 +52,5 @@ func divide(a,b int) (int ,error){
 	return a/b,nil
 }
 type Shape interface{
-	Area() float64
-}
-type Circle struct{
-	Radius float64
-}
-func (c Circle) Area() float64{
 	
 }

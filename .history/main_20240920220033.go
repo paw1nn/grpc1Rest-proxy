@@ -1,0 +1,15 @@
+package main
+import "fmt"
+func main(){
+	fmt.Println("hello world");
+}
+
+
+
+var x int =10
+y:="Hello"
+
+
+if x >5{
+	fmt.Println("x is greater than 5");
+}
